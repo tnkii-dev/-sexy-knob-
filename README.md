@@ -7,20 +7,20 @@ Esta semana comencé a crear un reproductor de música para mi sitio web y, en u
 
 ## Navegar
 
-[Uso rápido](#uso-rápido)
-[Importación correcta](#importación-correcta)
-[Atributos](#atributos)
-[├ src](#src)
-[├ width](#width)
-[├ height](#height)
-[├ min](#min)
-[├ max](#max)
-[├ init](#init)
-[└ type](#type)
-[Estilo](#estilo)
-[Acceder al valor](#acceder-al-valor)
-[Pendiendte!](#Pendiente)
-[Código Fuente](#código-fuente)
+[Uso rápido](#uso-rápido)<br>
+[Importación correcta](#importación-correcta)<br>
+[Atributos](#atributos)<br>
+[├ src](#src)<br>
+[├ width](#width)<br>
+[├ height](#height)<br>
+[├ min](#min)<br>
+[├ max](#max)<br>
+[├ init](#init)<br>
+[└ type](#type)<br>
+[Estilo](#estilo)<br>
+[Acceder al valor](#acceder-al-valor)<br>
+[Pendiendte!](#Pendiente)<br>
+[Código Fuente](#código-fuente)<br>
 
 ## Uso rápido
 
